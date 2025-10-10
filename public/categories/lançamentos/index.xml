@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lançamentos on Test</title>
+    <link>//localhost:39035/categories/lan%C3%A7amentos/</link>
+    <description>Recent content in Lançamentos on Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Test</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 19:10:00 -0300</lastBuildDate><atom:link href="//localhost:39035/categories/lan%C3%A7amentos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lançamento Test &#43; Deafkids: Sem Esperanças</title>
+      <link>//localhost:39035/posts/lancamento-test-deafkids-sem-esperancas/</link>
+      <pubDate>Wed, 10 Sep 2025 19:10:00 -0300</pubDate>
+      
+      <guid>//localhost:39035/posts/lancamento-test-deafkids-sem-esperancas/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Sem Esperanças&amp;rdquo;&lt;/strong&gt;, o novo álbum de estúdio em colaboração entre &lt;a
+  href=&#34;https://testgrind.bandcamp.com/&#34;
+    target=&#34;_blank&#34;
+  &gt;TEST&lt;/a&gt; e &lt;a
+  href=&#34;https://deafkidspunx.bandcamp.com/&#34;
+    target=&#34;_blank&#34;
+  &gt;DEAFKIDS&lt;/a&gt;, JÁ DISPONÍVEL no Bandcamp!!! Também será lançado em formato físico em vinil pela &lt;a
+  href=&#34;https://rapideyerecords.bandcamp.com/&#34;
+    target=&#34;_blank&#34;
+  &gt;Rapid Eye Records&lt;/a&gt; (Europa) e &lt;a
+  href=&#34;https://anomaliadistro.com.br/&#34;
+    target=&#34;_blank&#34;
+  &gt;All Music Matters&lt;/a&gt; (Brasil), e em CD pela &lt;a
+  href=&#34;https://cospefogo.bandcamp.com/&#34;
+    target=&#34;_blank&#34;
+  &gt;Cospe Fogo&lt;/a&gt; (Brasil). Em breve, mais informações!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:39035/posts/lancamento-test-deafkids-sem-esperancas/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Disco solo do João K. &#34;Alimento a Dor&#34;</title>
+      <link>//localhost:39035/posts/kombi-alimento-a-dor/</link>
+      <pubDate>Wed, 16 Jul 2025 19:10:00 -0300</pubDate>
+      
+      <guid>//localhost:39035/posts/kombi-alimento-a-dor/</guid>
+      <description>&lt;p&gt;Disco solo de João K. “Alimento a Dor” é uma coleção de alguns sons guardados ao longo dos anos e está disponíel no bandcamp.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:39035/posts/kombi-alimento-a-dor/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

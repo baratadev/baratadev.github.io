@@ -1,7 +1,0 @@
-+++
-date = '2025-10-10T10:41:52-03:00'
-draft = false
-title = 'Release'
-+++
-
-This is a test post.

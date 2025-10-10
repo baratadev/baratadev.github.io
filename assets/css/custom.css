@@ -1,0 +1,103 @@
+/*body * {
+}*/
+
+.max-w-prose {
+  max-width: 51.5625rem;
+  max-width: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.youtube-video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.youtube-video-container::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.youtube-video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.albums-wrap {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 451px) {
+  .albums-wrap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 640px) {
+  .albums-wrap {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.video-home-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 820px) {
+  .video-home-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.btn-more-custom {
+  display: block;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  padding: 0px 16px;
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+thead {
+  background-color: rgba(37, 99, 235, 0.06);
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.75rem 1.5rem;
+  white-space: nowrap;
+}
+
+th {
+  font-size: 0.75rem;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+tbody tr {
+  border-top: 1px solid rgba(10, 116, 139, 0.06);
+}
+
+tr:nth-child(even) {
+  background-color: rgba(4, 130, 249, 0.03);
+}
