@@ -4,4 +4,58 @@ draft = false
 title = 'Shows'
 +++
 
-This is a Test.
+## 2025
+
+<section class="table-wrapper">
+
+<table>
+
+<thead>
+    <tr>
+        <th>#</th>
+        <th>DATA</th>
+        <th>CIDADE</th>
+        <th>LOCAL</th>
+        <th>BANDAS</th>
+        <th>+ INFO</th>
+        </tr>
+</thead>
+
+<tbody>
+    <tr>
+        <td></td>
+        <td>OUT, 18</td>
+        <td>Manaus, AM</td>
+        <td>O Condado</td>
+        <td>Plastique Noir, Facada, R4d104t1v4,<br>Paramecia</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>OUT, 16</td>
+        <td>Goiânia, GO</td>
+        <td>Anexo 8</td>
+        <td>Agnoizze</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>SET, 12</td>
+        <td>São Paulo, SP</td>
+        <td>Sesc Av. Paulista</td>
+        <td>Test + Deafkids</td>
+        <td>Lançamento: "Sem Esperanças"</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>SET, 11</td>
+        <td>São Paulo, SP</td>
+        <td>Sesc Av. Paulista</td>
+        <td>Test + Deafkids</td>
+        <td>Lançamento: "Sem Esperanças"</td>
+    </tr>
+</tbody>
+
+</table>
+
+</section>
