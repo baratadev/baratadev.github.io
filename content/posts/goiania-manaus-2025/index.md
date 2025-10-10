@@ -1,7 +1,7 @@
 +++
 date = '2025-10-08T00:49:04-03:00'
 draft = false
-title = 'Test em Goiânia e Manausss'
+title = 'Test em Goiânia e Manaus'
 categories = 'shows'
 +++
 

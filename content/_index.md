@@ -1,5 +1,5 @@
 ---
-description: Test é um duo brasileiro formado por Barata (bateria) e João Kombi (guitarra e vocais)
+description: "Test é um duo brasileiro formado por Barata (bateria) e João Kombi (guitarra e vocais)."
 ---
 
 <div class="youtube-video-container">
