@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: baratadev.github.io/sitemap.xml
