@@ -14,8 +14,8 @@ title = "Test"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[params.author]
-  name = "Test"
+   [params.author]
+   name = "Test"
 #   email = "testgrindcore@outlook.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
