@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Português"
 weight = 1
 title = "Test"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "PT-BR"
+  isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
