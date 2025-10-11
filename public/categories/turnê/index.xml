@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turnê on Test</title>
-    <link>//localhost:40553/categories/turn%C3%AA/</link>
+    <link>//localhost:1313/categories/turn%C3%AA/</link>
     <description>Recent content in Turnê on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Wed, 16 Jul 2025 19:11:00 -0300</lastBuildDate><atom:link href="//localhost:40553/categories/turn%C3%AA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2025 19:11:00 -0300</lastBuildDate><atom:link href="//localhost:1313/categories/turn%C3%AA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>João K. em turne: &#34;Em Busca da Kombi Perdida&#34;</title>
-      <link>//localhost:40553/posts/em-busca-da-kombi-perdida/</link>
+      <link>//localhost:1313/posts/em-busca-da-kombi-perdida/</link>
       <pubDate>Wed, 16 Jul 2025 19:11:00 -0300</pubDate>
       
-      <guid>//localhost:40553/posts/em-busca-da-kombi-perdida/</guid>
+      <guid>//localhost:1313/posts/em-busca-da-kombi-perdida/</guid>
       <description>&lt;p&gt;Datas da turnê “Em Busca da Kombi Perdida” do João K. pelos estados do Rio de Janeiro e Minas Gerais, divulgando o disco &amp;ldquo;Alimento a Dor&amp;rdquo;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:40553/posts/em-busca-da-kombi-perdida/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/em-busca-da-kombi-perdida/featured.png" />
     </item>
     
   </channel>

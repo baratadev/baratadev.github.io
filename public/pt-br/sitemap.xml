@@ -3,85 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:40553/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-10-10T10:38:56-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:40553/en/"
+      href="//localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="//localhost:40553/"
+      href="//localhost:1313/"
     />
   </url>
   <url>
-    <loc>//localhost:40553/shows/</loc>
+    <loc>//localhost:1313/shows/</loc>
     <lastmod>2025-10-10T10:38:56-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/shows/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/shows/"
+    />
   </url>
   <url>
-    <loc>//localhost:40553/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-10-08T00:49:04-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/goiania-manaus-2025/</loc>
     <lastmod>2025-10-08T00:49:04-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/goiania-manaus-2025/</loc>
-    <lastmod>2025-10-08T00:49:04-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:40553/posts/lancamento-test-deafkids-sem-esperancas/</loc>
+    <loc>//localhost:1313/posts/lancamento-test-deafkids-sem-esperancas/</loc>
     <lastmod>2025-09-10T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/test-deafkids-sesc-paulista-ingressos-2025/</loc>
+    <loc>//localhost:1313/posts/test-deafkids-sesc-paulista-ingressos-2025/</loc>
     <lastmod>2025-09-02T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/test-deafkids-sesc-paulista-2025/</loc>
+    <loc>//localhost:1313/posts/test-deafkids-sesc-paulista-2025/</loc>
     <lastmod>2025-08-30T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/deaftest-ratos-sesc-jundiai/</loc>
+    <loc>//localhost:1313/posts/deaftest-ratos-sesc-jundiai/</loc>
     <lastmod>2025-08-01T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/em-busca-da-kombi-perdida/</loc>
+    <loc>//localhost:1313/posts/em-busca-da-kombi-perdida/</loc>
     <lastmod>2025-07-16T19:11:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/kombi-alimento-a-dor/</loc>
+    <loc>//localhost:1313/posts/kombi-alimento-a-dor/</loc>
     <lastmod>2025-07-16T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/test-instituto-raiz-da-serra-2025-05/</loc>
+    <loc>//localhost:1313/posts/test-instituto-raiz-da-serra-2025-05/</loc>
     <lastmod>2025-06-26T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:40553/posts/release/</loc>
+    <loc>//localhost:1313/posts/release/</loc>
     <lastmod>2010-09-01T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/release/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/release/"
+    />
   </url>
 </urlset>

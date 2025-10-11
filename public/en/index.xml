@@ -1,13 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Test</title>
     <link>//localhost:40553/en/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <atom:link href="//localhost:40553/en/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Test</copyright>
+    <lastBuildDate>Fri, 10 Oct 2025 10:38:56 -0300</lastBuildDate><atom:link href="//localhost:40553/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shows</title>
+      <link>//localhost:40553/en/shows/</link>
+      <pubDate>Fri, 10 Oct 2025 10:38:56 -0300</pubDate>
+      
+      <guid>//localhost:40553/en/shows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>//localhost:40553/en/posts/release/</link>
+      <pubDate>Wed, 01 Sep 2010 19:10:00 -0300</pubDate>
+      
+      <guid>//localhost:40553/en/posts/release/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+      &lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;Test visitando templo no Japão&#34;
+    srcset=&#34;
+      /posts/release/featured_hu_6ea4040aa3d383d0.jpg  330w,
+      /posts/release/featured_hu_ef3d26e85f3c27fc.jpg  660w,
+      /posts/release/featured_hu_7094ebf0bedbf01e.jpg 1280w
+    &#34;
+    data-zoom-src=&#34;//localhost:40553/posts/release/featured.jpg&#34;
+    src=&#34;//localhost:40553/posts/release/featured.jpg&#34;&gt;
+
+  
+    &lt;figcaption&gt;Foto por Rafael Yekashi&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TEST is a Brazilian duo formed in 2010 by &lt;strong&gt;João Kombi&lt;/strong&gt; (guitar and vocals) and &lt;strong&gt;Barata&lt;/strong&gt; (drums), two veterans of São Paulo’s underground scene. Known for their intense live performances, notable collaborations with artists like Iggor Cavalera and Deafkids, and a fearless musical approach, the band has established itself as one of the most inventive names in the Brazilian alternative scene.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:40553/posts/release/featured.jpg" />
+    </item>
     
   </channel>
 </rss>
