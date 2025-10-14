@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on Test</title>
+    <link>//localhost:1313/en/categories/releases/</link>
+    <description>Recent content in Releases on Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Test</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 19:10:00 -0300</lastBuildDate><atom:link href="//localhost:1313/en/categories/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Out Now! Test &#43; Deafkids: Sem Esperanças</title>
+      <link>//localhost:1313/en/posts/lancamento-test-deafkids-sem-esperancas/</link>
+      <pubDate>Wed, 10 Sep 2025 19:10:00 -0300</pubDate>
+      
+      <guid>//localhost:1313/en/posts/lancamento-test-deafkids-sem-esperancas/</guid>
+      <description>&lt;p&gt;Celebrating 15 years of career, &lt;strong&gt;DEAFKIDS&lt;/strong&gt; and &lt;strong&gt;TEST&lt;/strong&gt; performed together on the legendary stage of SESC Pompeia in São Paulo on January 10th, 2025, in a historic sold-out night. The joint show put to the test why both bands are regarded as icons of extreme, experimental and avant-garde independent music – not only in Brazil, but worldwide. This partnership finally resulted in an studio collaborative album recorded at the end of 2024, the culmination of years of collaboration between the two groups.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/lancamento-test-deafkids-sem-esperancas/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

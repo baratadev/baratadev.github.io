@@ -32,6 +32,14 @@ title = 'Shows'
     </tr>
     <tr>
         <td></td>
+        <td>OCT, 17</td>
+        <td>Brasília, DF</td>
+        <td>Barkowski</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>OCT, 16</td>
         <td>Goiânia, GO</td>
         <td>Anexo 8</td>

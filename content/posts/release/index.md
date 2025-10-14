@@ -26,6 +26,75 @@ Com um ritmo incansável de gravações e apresentações, o TEST celebra 15 ano
 
 Ao longo dessa trajetória, a dupla soma dois longas-metragens e mais de 10 mil discos físicos vendidos – fruto de um modus operandi auto-sustentável, que cria novas maneiras de autogestão. TEST é uma banda sem pares.
 
+### Alguns festivais que o Test tocou:
+
+- 71'O Grind: Colorado Springs, Estados Unidos (2016, 2018)
+- Abril Pro Rock: Recife, Brasil (2012)
+- Avant Art Festval: Wroclaw, Warsaw and Lublin na Polônia (2024)
+- Dreary North Fest: Chicago, Estados Unidos (2023)
+- Earslaughter Festival: Montreal, Canadá (2018)
+- Extreme Sounds of Latin America: Berlin, Alemanha
+- Festival DoSol: Natal, Brasil (2012, 2023, 2025)
+- Festival Eletronika: Belo Horizonte, Brasil (2011)
+- FIME (International Festival of Experimental Music): São Paulo, Brasil (2016)
+- Full Terror Assault: Cave In Rock, Illinois, Estados Unidos (2022)
+- Gekiko Fest: Tóquio, Japão (2025)
+- In-Edit: São Paulo, Brasil (2022)
+- Loches en Grind: Loches França (2012)
+- Maryland DeathFest: Maryland, Estados Unidos (2016, 2018)
+- Milhões de Festa: Barcelos, Portugal (2015)
+- Morrostock: Sapiranga, Rio Grande do Sul, Brasil (2014)
+- No Ar Coquetel Molotov: Recife, Brasil (2020, 2022)
+- Novas Frequencias: Rio de Janeiro, Brasil (2020, 2023, 2025)
+- Obscene Extreme America: Ciudad Del Mexico, México (2013)
+- Obscene Extreme Festival: Trutnov, Rerpública Tcheca (2015)
+- Porão do Rock: Brasília, Brasil (2013)
+- SWR Barroselas Metal Fest: Barroselas, Portugal (2017, 2025)
+- Virada Cultural São Paulo: São Paulo, Brasil (2013, 2014, 2015, 2016 e 2017)
+- Zoro Fest: Leipzig, Alemanha (2012)
+
+### Turnês fora do Brasil:
+
+**(com Escuela Grind, Deterioration, Chepang, Ixias, Bandit and muitas outras)**
+
+- Argentina: 2016, 2019
+- Ásia: 2025
+- Colômbia: 2017, 2023
+- Europa: 2011, 2012, 2015, 2017, 2024, 2025
+- México: 2013
+- Paraguai: 2023, 2019
+- Estados Unidos: 2014, 2015, 2016, 2018, 2022
+
+### Como banda de abertura:
+
+- Agathocles
+- Backslider
+- Boogarins
+- Brujeria
+- Cannibal Corpse
+- Carcass
+- Cavalera Conspiracy
+- Death DTA
+- Dillinger Escape Plan
+- Exodus
+- Full of Hell
+- Juçara Marçal
+- King Diamond
+- Krisiun
+- Lightning Bolt
+- Mayhem
+- Metá Metá
+- Mortician
+- Napalm Death
+- Obituary
+- P.L.F.
+- Phobia
+- Ratos de Porão
+- Sepultura
+- Soulfly
+- Tom Zé
+- Wormrot
+
 <div class="youtube-video-container">
   <iframe
     width="560"

@@ -61,6 +61,16 @@
     <lastmod>2025-09-10T19:10:00-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/lancamento-test-deafkids-sem-esperancas/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/lancamento-test-deafkids-sem-esperancas/"
+    />
   </url>
   <url>
     <loc>//localhost:1313/posts/test-deafkids-sesc-paulista-ingressos-2025/</loc>
