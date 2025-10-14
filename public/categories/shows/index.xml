@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shows on Test</title>
-    <link>//localhost:38949/categories/shows/</link>
+    <link>//localhost:1313/categories/shows/</link>
     <description>Recent content in Shows on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Wed, 08 Oct 2025 00:49:04 -0300</lastBuildDate><atom:link href="//localhost:38949/categories/shows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Oct 2025 00:49:04 -0300</lastBuildDate><atom:link href="//localhost:1313/categories/shows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test em Goiânia e Manaus</title>
-      <link>//localhost:38949/posts/goiania-manaus-2025/</link>
+      <link>//localhost:1313/posts/goiania-manaus-2025/</link>
       <pubDate>Wed, 08 Oct 2025 00:49:04 -0300</pubDate>
       
-      <guid>//localhost:38949/posts/goiania-manaus-2025/</guid>
+      <guid>//localhost:1313/posts/goiania-manaus-2025/</guid>
       <description>&lt;p&gt;Goiânia/GO e Manaus/AM! Dia 16 de outubro tem Test em Goiânia, no Anexo 8 com Agnoizze e dia 18 de outubro em Manaus, no Condado, junto com Plastique Noir, Facada, R4d104t1v4 e Paramecia.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:38949/posts/goiania-manaus-2025/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/goiania-manaus-2025/featured.jpg" />
     </item>
     
     <item>
       <title>Test &#43; Deafkids no Sesc Av. Paulista: Ingressos Disponíveis</title>
-      <link>//localhost:38949/posts/test-deafkids-sesc-paulista-ingressos-2025/</link>
+      <link>//localhost:1313/posts/test-deafkids-sesc-paulista-ingressos-2025/</link>
       <pubDate>Tue, 02 Sep 2025 19:10:00 -0300</pubDate>
       
-      <guid>//localhost:38949/posts/test-deafkids-sesc-paulista-ingressos-2025/</guid>
+      <guid>//localhost:1313/posts/test-deafkids-sesc-paulista-ingressos-2025/</guid>
       <description>&lt;p&gt;Ingressos disponíveis para compra pro show de lançamento do disco &amp;ldquo;Sem Esperanças&amp;rdquo;, registro do encontro das duas bandas expoentes da música extrema contemporânea, no Sesc Avenida Paulista.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:38949/posts/test-deafkids-sesc-paulista-ingressos-2025/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/test-deafkids-sesc-paulista-ingressos-2025/featured.jpg" />
     </item>
     
     <item>
       <title>Test &#43; Deafkids no Sesc Av. Paulista</title>
-      <link>//localhost:38949/posts/test-deafkids-sesc-paulista-2025/</link>
+      <link>//localhost:1313/posts/test-deafkids-sesc-paulista-2025/</link>
       <pubDate>Sat, 30 Aug 2025 19:10:00 -0300</pubDate>
       
-      <guid>//localhost:38949/posts/test-deafkids-sesc-paulista-2025/</guid>
+      <guid>//localhost:1313/posts/test-deafkids-sesc-paulista-2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TEST&lt;/strong&gt; e &lt;strong&gt;DEAFKIDS&lt;/strong&gt; apresentam o show de lançamento do álbum colaborativo “&lt;strong&gt;Sem Esperanças&lt;/strong&gt;” em duas datas especiais, em setembro, no &lt;strong&gt;Sesc Avenida Paulista&lt;/strong&gt;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:38949/posts/test-deafkids-sesc-paulista-2025/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/test-deafkids-sesc-paulista-2025/featured.jpg" />
     </item>
     
     <item>
       <title>Ratos de Porão e DeafTest no Sesc Jundiaí</title>
-      <link>//localhost:38949/posts/deaftest-ratos-sesc-jundiai/</link>
+      <link>//localhost:1313/posts/deaftest-ratos-sesc-jundiai/</link>
       <pubDate>Fri, 01 Aug 2025 19:10:00 -0300</pubDate>
       
-      <guid>//localhost:38949/posts/deaftest-ratos-sesc-jundiai/</guid>
+      <guid>//localhost:1313/posts/deaftest-ratos-sesc-jundiai/</guid>
       <description>&lt;p&gt;Dia 14 de agosto, quinta-feira, tem Ratos de Porão e DeafTest no Sesc Jundiaí.
 Test + Deafkids tocam as músicas novas do disco gravado em conjunto, &amp;ldquo;Sem Esperanças&amp;rdquo;, que vai ser lançado agora em setembro, além de alguns sons das próprias bandas.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:38949/posts/deaftest-ratos-sesc-jundiai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/deaftest-ratos-sesc-jundiai/featured.png" />
     </item>
     
     <item>
       <title>Test no Jabaquara, em São Paulo</title>
-      <link>//localhost:38949/posts/test-instituto-raiz-da-serra-2025-05/</link>
+      <link>//localhost:1313/posts/test-instituto-raiz-da-serra-2025-05/</link>
       <pubDate>Thu, 26 Jun 2025 19:10:00 -0300</pubDate>
       
-      <guid>//localhost:38949/posts/test-instituto-raiz-da-serra-2025-05/</guid>
+      <guid>//localhost:1313/posts/test-instituto-raiz-da-serra-2025-05/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Test&lt;/strong&gt;, &lt;strong&gt;Social Chaos&lt;/strong&gt;, &lt;strong&gt;Puukkojunkkari&lt;/strong&gt;, &lt;strong&gt;Distravaätravä&lt;/strong&gt; e &lt;strong&gt;Subvermes&lt;/strong&gt;, dia 5 de julho no Instituto Raiz da Serra, no Jabaquara, zona sul de São Paulo.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:38949/posts/test-instituto-raiz-da-serra-2025-05/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/test-instituto-raiz-da-serra-2025-05/featured.png" />
     </item>
     
   </channel>
