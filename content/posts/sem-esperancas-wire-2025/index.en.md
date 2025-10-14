@@ -1,7 +1,7 @@
 +++
 date = '2025-10-14T12:28:38-03:00'
 draft = false
-title = 'Review de "Sem Esperancas" on the Wire Magazine'
+title = 'Sem Esperancas" on the Wire Magazine'
 categories = 'Reviews'
 +++
 
