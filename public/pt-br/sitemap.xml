@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-10-14T12:28:38-03:00</lastmod>
+    <lastmod>2025-10-14T16:44:23-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,8 +19,14 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/posts/do-sol-2025/</loc>
+    <lastmod>2025-10-14T16:44:23-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-10-14T12:28:38-03:00</lastmod>
+    <lastmod>2025-10-14T16:44:23-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link

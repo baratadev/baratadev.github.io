@@ -29,7 +29,7 @@
   href=&#34;https://testgrind.bandcamp.com/album/sem-esperan-as&#34;
     target=&#34;_blank&#34;
   &gt;Sem Esperanças&lt;/a&gt;&amp;rdquo; está presente na mais recente edição da @thewiremagazine na sessão &amp;ldquo;Soundcheck&amp;rdquo;, com um ótimo texto pelo Daryl Worthington.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/sem-esperancas-wire-2025/featured.jpg" />
+      
     </item>
     
     <item>
@@ -86,6 +86,16 @@ No centro oeste ainda toca em Goiânia, um dia antes, no Anexo 8 e depois dos sh
     target=&#34;_blank&#34;
   &gt;Cospe Fogo&lt;/a&gt; (Brasil). Em breve, mais informações!&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/lancamento-test-deafkids-sem-esperancas/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Sem Esperanças</title>
+      <link>//localhost:1313/posts/sem-esperancas/</link>
+      <pubDate>Wed, 10 Sep 2025 10:52:46 -0300</pubDate>
+      
+      <guid>//localhost:1313/posts/sem-esperancas/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/sem-esperancas/featured.png" />
     </item>
     
     <item>
