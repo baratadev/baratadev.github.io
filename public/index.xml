@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Tue, 14 Oct 2025 16:44:23 -0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 11:14:10 -0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Manaus: Show extra gratuito</title>
+      <link>//localhost:1313/posts/manaus-2025-show-extra/</link>
+      <pubDate>Sun, 19 Oct 2025 11:14:10 -0300</pubDate>
+      
+      <guid>//localhost:1313/posts/manaus-2025-show-extra/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/manaus-2025-show-extra/featured.jpg" />
+    </item>
     
     <item>
       <title>Deafkids &#43; Test no Festival DoSol 2025</title>
@@ -29,11 +39,11 @@
   href=&#34;https://testgrind.bandcamp.com/album/sem-esperan-as&#34;
     target=&#34;_blank&#34;
   &gt;Sem Esperanças&lt;/a&gt;&amp;rdquo; está presente na mais recente edição da @thewiremagazine na sessão &amp;ldquo;Soundcheck&amp;rdquo;, com um ótimo texto pelo Daryl Worthington.&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/sem-esperancas-wire-2025/featured.jpg" />
     </item>
     
     <item>
-      <title>Test de graça no Barkowski em Brasília</title>
+      <title>Test de volta ao Barkowski, em Brasília</title>
       <link>//localhost:1313/posts/barkowski-bsb-2025/</link>
       <pubDate>Tue, 14 Oct 2025 11:14:10 -0300</pubDate>
       

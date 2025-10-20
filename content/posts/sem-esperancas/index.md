@@ -13,6 +13,8 @@ Em dezembro de 2024, **TEST** e **DEAFKIDS** se reuniram em estúdio por três d
 
 O álbum, intitulado "**Sem Esperanças**", está disponível nas plataformas digitais. Também será lançado em formato físico em vinil pela [Rapid Eye Records](https://rapideyerecords.bandcamp.com/) (Europa) e [All Music Matters](https://anomaliadistro.com.br/) (Brasil), e em CD pela [Cospe Fogo](https://cospefogo.bandcamp.com/) (Brasil)
 
+# Versões
+
 # Resenhas
 
 ## Wire Magazine

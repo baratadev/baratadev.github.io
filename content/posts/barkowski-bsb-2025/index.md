@@ -1,7 +1,7 @@
 +++
 date = '2025-10-14T11:14:10-03:00'
 draft = false
-title = 'Test de graça no Barkowski em Brasília'
+title = 'Test de volta ao Barkowski, em Brasília'
 categories = 'Shows'
 +++
 
@@ -9,6 +9,10 @@ Nessa sexta, dia 17 de outubro, Test volta ao Barkowski.
 No centro oeste ainda toca em Goiânia, um dia antes, no Anexo 8 e depois dos shoes no cerrado, parte pro norte do Brasil, onde faz dois shows em Manaus.
 
 <!--more-->
+
+{{< gallery >}}
+<img src="barkowski-2025-flyer.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
 ## Test no Barkowski em 2022
 
