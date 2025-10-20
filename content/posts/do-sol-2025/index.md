@@ -7,8 +7,6 @@ categories = 'shows'
 
 **Test + Deafkids** tocam as músicas do disco "Sem Esperanças", dia 29 de novembro, no **Galpão 292**, em Natal/RN, parte da programação da 22ª edição do Festival DoSol.
 
-<!--more-->
-
 **GALPÃO 292**
 
 - 17h40 - Test & Deaf kids (RJ/SP)

@@ -7,8 +7,6 @@ categories = 'Reviews'
 
 Nosso recém-lancado álbum collab com o **DEAFKIDS** "[Sem Esperanças](https://testgrind.bandcamp.com/album/sem-esperan-as)" está presente na mais recente edição da @thewiremagazine na sessão "Soundcheck", com um ótimo texto pelo Daryl Worthington.
 
-<!--more-->
-
 ### Leia a resenha:
 
 {{< gallery >}}

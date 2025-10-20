@@ -8,8 +8,6 @@ categories = 'Shows'
 Nessa sexta, dia 17 de outubro, Test volta ao Barkowski.
 No centro oeste ainda toca em Goiânia, um dia antes, no Anexo 8 e depois dos shoes no cerrado, parte pro norte do Brasil, onde faz dois shows em Manaus.
 
-<!--more-->
-
 {{< gallery >}}
 <img src="barkowski-2025-flyer.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

@@ -7,8 +7,6 @@ categories = 'shows'
 
 Goiânia/GO e Manaus/AM! Dia 16 de outubro tem Test em Goiânia, no Anexo 8 com Agnoizze e dia 18 de outubro em Manaus, no Condado, junto com Plastique Noir, Facada, R4d104t1v4 e Paramecia.
 
-<!--more-->
-
 ![Test em Goiânia e Manaus](featured.jpg)
 
 ## 16 de outubro, Goiânia/GO
