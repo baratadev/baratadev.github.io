@@ -24,6 +24,14 @@ title = 'Shows'
 <tbody>
     <tr>
         <td></td>
+        <td>OUT, 19</td>
+        <td>Manaus, AM</td>
+        <td>Largo São Sebastião</td>
+        <td>Hellconfesso, Boomerang Blues</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
         <td>OUT, 18</td>
         <td>Manaus, AM</td>
         <td>O Condado</td>
