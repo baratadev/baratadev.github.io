@@ -1,9 +1,13 @@
 +++
 date = '2025-10-14T12:28:38-03:00'
 draft = false
-title = 'Review de "Sem Esperancas" na Wire Magazine'
+title = '"Sem Esperancas" na Wire Magazine'
 categories = 'Reviews'
 +++
+
+Nossa collab com o Deafkids resenhada na Wire Magazine.
+
+<!--more-->
 
 Nosso recém-lancado álbum collab com o **DEAFKIDS** "[Sem Esperanças](https://testgrind.bandcamp.com/album/sem-esperan-as)" está presente na mais recente edição da @thewiremagazine na sessão "Soundcheck", com um ótimo texto pelo Daryl Worthington.
 

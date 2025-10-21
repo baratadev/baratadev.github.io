@@ -5,7 +5,9 @@ title = 'Manaus: Show extra gratuito'
 categories = 'Shows'
 +++
 
-Hoje, das 18 às 21hs no Largo São Sebastião, em frente ao Teatro Amazonas!
+Hoje no Largo São Sebastião em frente ao Teatro Amazonas!
+
+<!--more-->
 
 - Test (SP)
 - Hellconfesso

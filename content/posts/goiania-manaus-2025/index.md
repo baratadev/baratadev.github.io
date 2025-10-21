@@ -1,9 +1,13 @@
 +++
 date = '2025-10-08T00:49:04-03:00'
 draft = false
-title = 'Test em Goiânia e Manaus'
+title = 'Esse mês tem Test em Goiânia e Manaus'
 categories = 'shows'
 +++
+
+Goiânia dia 16 e Manaus dia 18 de março.
+
+<!--more-->
 
 Goiânia/GO e Manaus/AM! Dia 16 de outubro tem Test em Goiânia, no Anexo 8 com Agnoizze e dia 18 de outubro em Manaus, no Condado, junto com Plastique Noir, Facada, R4d104t1v4 e Paramecia.
 

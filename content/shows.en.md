@@ -156,7 +156,7 @@ title = 'Shows'
         <td>Osaka, Japan</td>
         <td>Hokage</td>
         <td>Birth and Loss, Birushanah</td>
-        <td>Karasu Kiuller Inferno</br>Asia 2025</td>
+        <td>Karasu Killer Inferno</br>Asia 2025</td>
     </tr>
     <tr>
         <td></td>

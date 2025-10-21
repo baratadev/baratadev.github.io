@@ -5,6 +5,10 @@ title = 'Deafkids + Test no Festival DoSol 2025'
 categories = 'shows'
 +++
 
+Dia 29 de novembro, em Natal/RN, no Galpão 292.
+
+<!--more-->
+
 **Test + Deafkids** tocam as músicas do disco "Sem Esperanças", dia 29 de novembro, no **Galpão 292**, em Natal/RN, parte da programação da 22ª edição do Festival DoSol.
 
 **GALPÃO 292**
