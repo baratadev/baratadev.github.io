@@ -5,6 +5,10 @@ title = '"Sem Esperancas" on the Wire Magazine'
 categories = 'Reviews'
 +++
 
+Our collab with Deafkids reviwed on Wire Magazine.
+
+<!--more-->
+
 Our newly released collab album with **DEAFKIDS** "[Sem Esperanças](https://testgrind.bandcamp.com/album/sem-esperan-as)" is featured on The Wire Magazine latest issue on their "Soundcheck" session.
 
 <!--more-->
