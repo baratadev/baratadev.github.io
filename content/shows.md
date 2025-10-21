@@ -249,7 +249,7 @@ title = 'Shows'
     <tr>
         <td></td>
         <td>MAR, 16</td>
-        <td>Vila Velha, ES/td>
+        <td>Vila Velha, ES</td>
         <td>Correria Music Bar</td>
         <td>Deafkids</td>
         <td>No Hope Tour V</td>
