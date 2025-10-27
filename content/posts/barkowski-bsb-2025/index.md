@@ -1,7 +1,7 @@
 +++
 date = '2025-10-14T11:14:10-03:00'
 draft = false
-title = 'Essa semana Test de volta a Brasília'
+title = 'Test de volta a Brasília'
 categories = 'Shows'
 +++
 

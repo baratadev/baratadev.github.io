@@ -1,5 +1,5 @@
 +++
-date = '2025-10-10T10:38:56-03:00'
+date = '2025-10-22T10:38:56-03:00'
 draft = false
 title = 'Shows'
 +++
@@ -23,12 +23,52 @@ title = 'Shows'
 
 <tbody>
     <tr>
+        <td>1029</td>
+        <td>DEZ, 13</td>
+        <td>Santo André, SP</td>
+        <td>74 Club</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1028</td>
+        <td>DEZ, 12</td>
+        <td>Bragança Paulista, SP</td>
+        <td>Edith Garage</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1027</td>
+        <td>DEZ, 10</td>
+        <td>São Carlos, SP</td>
+        <td>Mess Bar</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>1026</td>
+        <td>DEZ, 07</td>
+        <td>Rio de Janeiro, RJ</td>
+        <td>Circo Voador</td>
+        <td>Papangu, Metá Metá</td>
+        <td>Test & Deafkids</br>Festival Novas Frequências</td>
+    </tr>
+    <tr>
+        <td>1025</td>
+        <td>DEZ, 06</td>
+        <td>São João del-Rei, MG</td>
+        <td>La Motta Pub</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>1024</td>
         <td>NOV, 29</td>
         <td>Natal, RN</td>
         <td>Galpão 292</td>
         <td>Deafkids, Leptospirose,</br>Zepelim e o Sobro do Cão,</br>Desalmado, Mukeka di Rato,</br>The Renegades of Punk</td>
-        <td>DEAFTEST</br>Festival DoSol</td>
+        <td>Test & Deafkids</br>Festival DoSol</td>
     </tr>
     <tr>
         <td>1023</td>
@@ -36,7 +76,7 @@ title = 'Shows'
         <td>Fortaleza, CE</td>
         <td>Dragão do Mar</td>
         <td>Deafkids</td>
-        <td>DEAFTEST</td>
+        <td>Test & Deafkids</td>
     </tr>
     <tr>
         <td>1022</td>
@@ -92,7 +132,7 @@ title = 'Shows'
         <td>Jundiaí, SP</td>
         <td>Sesc Jundiaí</td>
         <td>Test + Deafkids, Ratos de Porão</td>
-        <td>DEAFTEST</td>
+        <td>Test & Deafkids</td>
     </tr>
     <tr>
         <td>1015</td>
@@ -483,7 +523,7 @@ title = 'Shows'
         <td>São Paulo, SP</td>
         <td>Sesc Pompéia</td>
         <td>Deafkids</td>
-        <td>DEAFTEST</td>
+        <td>Test & Deafkids</td>
     </tr>
 
 </tbody>
