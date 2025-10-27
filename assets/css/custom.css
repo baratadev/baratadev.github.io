@@ -101,3 +101,17 @@ tbody tr {
 tr:nth-child(even) {
   background-color: rgba(4, 130, 249, 0.03);
 }
+
+.fotos-download {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem;
+}
+
+.fotos-download-gr2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.fotos-download-gr3 {
+  grid-template-columns: repeat(3, 1fr);
+}
