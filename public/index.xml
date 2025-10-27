@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 10:38:56 -0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docs</title>
+      <link>//localhost:1313/docs/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Shows</title>
       <link>//localhost:1313/shows/</link>
-      <pubDate>Wed, 22 Oct 2025 10:38:56 -0300</pubDate>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/shows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Um Disco Normal</title>
+      <link>//localhost:1313/um-disco-normal/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/um-disco-normal/</guid>
       <description></description>
       
     </item>
@@ -57,16 +77,6 @@
       <guid>//localhost:1313/posts/barkowski-bsb-2025/</guid>
       <description>&lt;p&gt;Dia 17 de outubro, sexta-feira, às 19hs!&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/barkowski-bsb-2025/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Docs</title>
-      <link>//localhost:1313/docs/</link>
-      <pubDate>Fri, 10 Oct 2025 10:38:56 -0300</pubDate>
-      
-      <guid>//localhost:1313/docs/</guid>
-      <description></description>
-      
     </item>
     
     <item>

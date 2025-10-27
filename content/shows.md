@@ -1,5 +1,5 @@
 +++
-date = '2025-10-22T10:38:56-03:00'
+date = '2025-10-27'
 draft = false
 title = 'Shows'
 +++
@@ -23,7 +23,7 @@ title = 'Shows'
 
 <tbody>
     <tr>
-        <td>1029</td>
+        <td>1031</td>
         <td>DEZ, 13</td>
         <td>Santo André, SP</td>
         <td>74 Club</td>

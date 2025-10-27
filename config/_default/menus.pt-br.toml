@@ -21,17 +21,22 @@
   weight = 30
 
 [[main]]
-  name = "Bandcamp"
-# pre = "music"
+# name = "Bandcamp"
+  pre = "bandcamp"
   url = "https://testgrind.bandcamp.com/"
-  weight = 40
+  weight = 70
 
 [[main]]
-  name = "YouTube"
+#  name = "YouTube"
   identifier = "youtube"
-  #pre = "youtube"
+  pre = "youtube"
   url = "https://www.youtube.com/@Testgrind/videos"
-  weight = 50
+  weight = 80
+
+[[main]]
+  name = "Um Disco Normal"
+  pageRef = "/um-disco-normal"
+  weight = 60
 
 #[[main]]
 #  name = "Parent"

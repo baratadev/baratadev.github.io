@@ -3,7 +3,6 @@ date = '2010-09-01T19:10:00-03:00'
 draft = false
 title = 'Release'
 featured = 'test-japão-rafael-yekashi.jpg'
-menu = 'main'
 +++
 
 ![Test visitando templo no Japão](featured.jpg "Foto por Rafael Yekashi")

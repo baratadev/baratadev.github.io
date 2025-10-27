@@ -1,5 +1,5 @@
 +++
-date = '2025-10-10T10:38:56-03:00'
+date = '2025-10-27'
 draft = false
 title = 'Docs'
 showTableOfContents = 'article.showTableOfContents'
