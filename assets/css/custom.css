@@ -102,19 +102,27 @@ tr:nth-child(even) {
   background-color: rgba(4, 130, 249, 0.03);
 }
 
-.fotos-download {
+/*
+custom grid for the pages
+if want to make a grid with more colums, just add another css rule
+ex:
+.custom-grid-4col
+*/
+
+.custom-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.25rem;
+  gap: 10px;
 }
 
-.fotos-download-gr2 {
+.custom-grid-2col {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.fotos-download-gr3 {
+.custom-grid-3col {
   grid-template-columns: repeat(3, 1fr);
 }
+
+/* show only burger menu */
 
 @layer utilities {
   .md\:flex {

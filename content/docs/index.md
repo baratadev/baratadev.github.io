@@ -53,7 +53,7 @@ showTableOfContents = 'article.showTableOfContents'
 
 ### Ao vivo na vertical
 
-<section class="fotos-download fotos-download-gr2">
+<section class="custom-grid custom-grid-2col">
 
 {{< figure
     src="test-aovivo-por-fernando-yokota-01.jpg"
@@ -71,7 +71,7 @@ showTableOfContents = 'article.showTableOfContents'
 
 ### Ao vivo na horizontal
 
-<section class="fotos-download fotos-download-gr3">
+<section class="custom-grid custom-grid-3col">
 
 {{< figure
     src="test-aovivo-por-chris-justtino.jpg"
@@ -95,7 +95,7 @@ showTableOfContents = 'article.showTableOfContents'
 
 ### Retratos
 
-<section class="fotos-download fotos-download-gr3">
+<section class="custom-grid custom-grid-3col">
 
 {{< figure
     src="retrato-test-por-chris-justtino.jpg"
