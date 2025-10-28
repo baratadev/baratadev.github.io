@@ -5,7 +5,7 @@ title = 'Manaus: Show extra gratuito'
 categories = 'Shows'
 +++
 
-Hoje no Largo São Sebastião em frente ao Teatro Amazonas!
+No Largo São Sebastião em frente ao Teatro Amazonas!
 
 <!--more-->
 
