@@ -26,6 +26,16 @@
   weight = 30
 
 [[main]]
+  name = "Sem Esperanças"
+  pageRef = "/sem-esperancas"
+  weight = 40
+
+[[main]]
+  name = "Um Disco Normal"
+  pageRef = "/um-disco-normal"
+  weight = 50
+
+[[main]]
   name = "Bandcamp"
   pre = "bandcamp"
   url = "https://testgrind.bandcamp.com/"
@@ -37,11 +47,6 @@
   pre = "youtube"
   url = "https://www.youtube.com/@Testgrind/videos"
   weight = 80
-
-[[main]]
-  name = "Um Disco Normal"
-  pageRef = "/um-disco-normal"
-  weight = 60
 
 #[[main]]
 #  name = "Parent"

@@ -48,3 +48,22 @@ DEAFKIDS vem se firmando há alguns anos como um dos principais nomes de música
 ![Deafkids](deafkids.png "Deafkids")
 
 O que esperar musicalmente dessa parceria? Ambas as bandas são conhecidas pelo impacto de suas apresentações ao vivo e inovações sonoras em seus estilos, impactando não só a cena local, mas grandes nomes da música extrema mundial. DEAFKIDS apresenta seu som punk-percussivo-eletrônico em constante mutação e impossível de rotular, e o TEST traz sua experimentação sonora compilando praticamente todos os estilos de música extrema, de maneira única no mundo.
+
+## Ouça "Sem Esperanças":
+
+<div style="max-width: 100%">
+  <div style="left: 0; width: 100%; height: 241px; position: relative">
+    <iframe
+      src="https://bandcamp.com/EmbeddedPlayer/album=1880855551/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"
+      style="
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        border: 0;
+      "
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
