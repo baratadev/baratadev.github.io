@@ -23,7 +23,7 @@ title = 'Shows'
 
 <tbody>
     <tr>
-        <td>1031</td>
+        <td>1028</td>
         <td>DEZ, 13</td>
         <td>Santo André, SP</td>
         <td>74 Club</td>
@@ -31,7 +31,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1028</td>
+        <td>1027</td>
         <td>DEZ, 12</td>
         <td>Bragança Paulista, SP</td>
         <td>Edith Garage</td>
@@ -39,7 +39,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1027</td>
+        <td>1026</td>
         <td>DEZ, 10</td>
         <td>São Carlos, SP</td>
         <td>Mess Bar</td>
@@ -47,7 +47,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1026</td>
+        <td>1025</td>
         <td>DEZ, 07</td>
         <td>Rio de Janeiro, RJ</td>
         <td>Circo Voador</td>
@@ -55,7 +55,7 @@ title = 'Shows'
         <td>Test & Deafkids</br>Festival Novas Frequências</td>
     </tr>
     <tr>
-        <td>1025</td>
+        <td>1024</td>
         <td>DEZ, 06</td>
         <td>São João del-Rei, MG</td>
         <td>La Motta Pub</td>
@@ -63,7 +63,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1024</td>
+        <td>1023</td>
         <td>NOV, 29</td>
         <td>Natal, RN</td>
         <td>Galpão 292</td>
@@ -71,7 +71,7 @@ title = 'Shows'
         <td>Test & Deafkids</br>Festival DoSol</td>
     </tr>
     <tr>
-        <td>1023</td>
+        <td>1022</td>
         <td>NOV, 28</td>
         <td>Fortaleza, CE</td>
         <td>Dragão do Mar</td>
@@ -79,7 +79,7 @@ title = 'Shows'
         <td>Test & Deafkids</td>
     </tr>
     <tr>
-        <td>1022</td>
+        <td>1021</td>
         <td>OUT, 19</td>
         <td>Manaus, AM</td>
         <td>Largo São Sebastião</td>
@@ -87,7 +87,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1021</td>
+        <td>1020</td>
         <td>OUT, 18</td>
         <td>Manaus, AM</td>
         <td>O Condado</td>
@@ -95,7 +95,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1020</td>
+        <td>1019</td>
         <td>OUT, 17</td>
         <td>Brasília, DF</td>
         <td>Barkowski</td>
@@ -103,7 +103,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1019</td>
+        <td>1018</td>
         <td>OUT, 16</td>
         <td>Goiânia, GO</td>
         <td>Anexo 8</td>
@@ -111,7 +111,7 @@ title = 'Shows'
         <td></td>
     </tr>
     <tr>
-        <td>1018</td>
+        <td>1017</td>
         <td>SET, 12</td>
         <td>São Paulo, SP</td>
         <td>Sesc Av. Paulista</td>
@@ -119,7 +119,7 @@ title = 'Shows'
         <td>Lançamento: "Sem Esperanças"</td>
     </tr>
     <tr>
-        <td>1017</td>
+        <td>1016</td>
         <td>SET, 11</td>
         <td>São Paulo, SP</td>
         <td>Sesc Av. Paulista</td>
@@ -127,7 +127,7 @@ title = 'Shows'
         <td>Lançamento: "Sem Esperanças"</td>
     </tr>
     <tr>
-        <td>1016</td>
+        <td>1015</td>
         <td>AGO, 14</td>
         <td>Jundiaí, SP</td>
         <td>Sesc Jundiaí</td>
@@ -135,19 +135,11 @@ title = 'Shows'
         <td>Test & Deafkids</td>
     </tr>
     <tr>
-        <td>1015</td>
+        <td>1014</td>
         <td>JUL, 05</td>
         <td>São Paulo, SP</td>
         <td>Instituto Raiz da Serra</td>
         <td>Social Chaos, Puukkojunkkari,</br> Distravvätravä, Subvermes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>1014</td>
-        <td>JUN, 15</td>
-        <td>Curitiba, PR</td>
-        <td>Lado B</td>
-        <td>Tifo, Espectrovulto</td>
         <td></td>
     </tr>
     <tr>
