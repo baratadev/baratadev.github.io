@@ -11,7 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-   name = "Blog"
+  name = "Release"
+  pageRef = "/release"
+  weight = 10
+
+[[main]]
+  name = "Blog"
   pageRef = "posts"
   weight = 10
 
@@ -21,13 +26,13 @@
   weight = 20
 
 [[main]]
-# name = "Bandcamp"
+  name = "Bandcamp"
   pre = "bandcamp"
   url = "https://testgrind.bandcamp.com/"
   weight = 70
 
 [[main]]
-#  name = "YouTube"
+  name = "YouTube"
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/@Testgrind/videos"

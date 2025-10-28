@@ -115,3 +115,15 @@ tr:nth-child(even) {
 .fotos-download-gr3 {
   grid-template-columns: repeat(3, 1fr);
 }
+
+@layer utilities {
+  .md\:flex {
+    display: none;
+  }
+}
+
+@layer utilities {
+  .md\:hidden {
+    display: flex;
+  }
+}
