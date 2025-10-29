@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 11:14:10 -0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Oct 2025 11:14:10 -0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test &amp; Deafkids no Novas Frequências 2025</title>
+      <link>//localhost:1313/posts/2025-10-29-test-deafkids-novas-frequencias/</link>
+      <pubDate>Wed, 29 Oct 2025 11:14:10 -0300</pubDate>
+      
+      <guid>//localhost:1313/posts/2025-10-29-test-deafkids-novas-frequencias/</guid>
+      <description>&lt;p&gt;Test &amp;amp; Deafkids, Metá Metá e Papangu no Circo Voador!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/2025-10-29-test-deafkids-novas-frequencias/featured.png" />
+    </item>
     
     <item>
       <title>Manaus: Show extra gratuito</title>
@@ -189,16 +199,6 @@ Test + Deafkids tocam as músicas novas do disco gravado em conjunto, &amp;ldquo
 &lt;/p&gt;
 &lt;p&gt;TEST é um duo brasileiro formado em 2010 por João Kombi (guitarra e voz) e Barata (bateria), dois veteranos da cena underground de São Paulo. Conhecida por sua intensa atividade ao vivo, colaborações marcantes com nomes como Iggor Cavalera e Deafkids, e uma abordagem musical destemida, a banda se consolidou como um dos nomes mais inventivos da cena alternativa nacional.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/release/featured.jpg" />
-    </item>
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/25-10-29-test-deafkids-novas-frequencias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/25-10-29-test-deafkids-novas-frequencias/</guid>
-      <description></description>
-      
     </item>
     
   </channel>
