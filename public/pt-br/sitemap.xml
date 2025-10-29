@@ -172,4 +172,9 @@
       href="//localhost:1313/posts/release/"
     />
   </url>
+  <url>
+    <loc>//localhost:1313/posts/25-10-29-test-deafkids-novas-frequencias/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
