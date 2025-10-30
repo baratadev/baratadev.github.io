@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-29T11:14:10-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,28 @@
       hreflang="pt-br"
       href="//localhost:1313/"
     />
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-10-29T11:14:10-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/2025-10-29-test-deafkids-novas-frequencias/</loc>
+    <lastmod>2025-10-29T11:14:10-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/docs/</loc>
@@ -47,22 +69,6 @@
     <lastmod>2025-10-19T11:14:10-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-10-19T11:14:10-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/en/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="//localhost:1313/posts/"
-    />
   </url>
   <url>
     <loc>//localhost:1313/posts/do-sol-2025/</loc>
@@ -171,10 +177,5 @@
       hreflang="pt-br"
       href="//localhost:1313/posts/release/"
     />
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/25-10-29-test-deafkids-novas-frequencias/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

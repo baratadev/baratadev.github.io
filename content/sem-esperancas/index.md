@@ -67,3 +67,16 @@ O que esperar musicalmente dessa parceria? Ambas as bandas são conhecidas pelo 
     ></iframe>
   </div>
 </div>
+
+---
+
+## Reviews
+
+- [Pop Fantasma](deaftest-sem-esperanças-review-popfantasma.png)
+- [Wire Magazine parte I](deaftest-sem-esperanças-review-wire-01.jpg)
+- [Wire Magazine parte 2](deaftest-sem-esperanças-review-wire-02.jpg)
+- [Sound and Colours](deaftest-sem-esperanças-recomendação-2025-sounds-and-colours.png)
+- [Desconhecido Juvenal](deaftest-sem-esperanças-review-2025-desconhecido-juvenal.png)
+- [Cvlt Nation](deaftest-sem-esperanças-2025-cvlt-nation.png)
+
+---
