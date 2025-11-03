@@ -2,7 +2,7 @@
 date = '2025-11-03'
 draft = false
 title = 'Kombi: Alimento a Dor european tour 2025'
-categories = 'shows'
+categories = 'turnê'
 +++
 
 João K. on tour playing "Alimento a dor".
