@@ -43,7 +43,7 @@ João K. on tour playing "Alimento a dor".
 
 19/11 – Rzeszów, PL @ Piwnice Rzeszowskie
 
-## Listen the album:
+## Listen to the album:
 
 <div style="max-width: 700px">
   <div style="left: 0; width: 100%; height: 241px; position: relative">
