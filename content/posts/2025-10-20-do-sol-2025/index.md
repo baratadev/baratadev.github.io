@@ -1,5 +1,5 @@
 +++
-date = '2025-10-14T16:44:23-03:00'
+date = '2025-10-20T16:44:23-03:00'
 draft = false
 title = 'Deafkids + Test no Festival DoSol 2025'
 categories = 'shows'
