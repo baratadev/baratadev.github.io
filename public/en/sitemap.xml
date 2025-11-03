@@ -4,7 +4,7 @@
 
   <url>
     <loc>//localhost:1313/en/</loc>
-    <lastmod>2025-10-14T12:28:38-03:00</lastmod>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,54 @@
       rel="alternate"
       hreflang="en"
       href="//localhost:1313/en/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/en/posts/2025-11-03-agenda-barata/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/2025-11-03-agenda-barata/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/2025-11-03-agenda-barata/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/en/posts/2025-11-03-kombi-alimento-a-dor-euro-2025/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/2025-11-03-kombi-alimento-a-dor-euro-2025/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/2025-11-03-kombi-alimento-a-dor-euro-2025/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/en/posts/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="//localhost:1313/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/posts/"
     />
   </url>
   <url>
@@ -32,22 +80,6 @@
       rel="alternate"
       hreflang="en"
       href="//localhost:1313/en/posts/sem-esperancas-wire-2025/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/en/posts/</loc>
-    <lastmod>2025-10-14T12:28:38-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="//localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="//localhost:1313/en/posts/"
     />
   </url>
   <url>
