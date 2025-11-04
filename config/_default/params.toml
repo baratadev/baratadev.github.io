@@ -6,8 +6,8 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "congo" # Avocado Fire Ocean Forest Princess Neon Bloody Terminal Marvel Noir Autumn Congo Slate
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = true
 
 enableA11y = false
 enableSearch = true
