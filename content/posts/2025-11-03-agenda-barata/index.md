@@ -51,6 +51,7 @@ Enquanto [João K. divulga o recém lançando disco "Alimento a Dor" pela Europa
 
 {{< gallery >}}
 <img src="flyer-barroca-2025.webp" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="flyer-nene-2025.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="flyer-churrasco-2025.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="flyer-mineral-2025.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="flyer-breá-2025.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
