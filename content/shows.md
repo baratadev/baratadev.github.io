@@ -523,3 +523,127 @@ title = 'Shows'
 </table>
 
 </section>
+
+<section class="table-wrapper">
+
+## 2024
+
+<table>
+
+<thead>
+    <tr>
+        <th>#</th>
+        <th>DATA</th>
+        <th>CIDADE</th>
+        <th>LOCAL</th>
+        <th>BANDAS</th>
+        <th>+ INFO</th>
+        </tr>
+</thead>
+
+<tbody>
+    <tr>
+        <td>966</td>
+        <td>DEZ, 21</td>
+        <td>São Paulo, SP</td>
+        <td>Central Panelaço</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>965</td>
+        <td>DEZ, 20</td>
+        <td>Santo André, SP</td>
+        <td>74 Club</td>
+        <td>Skydown, Giallos</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>964</td>
+        <td>DEZ, 09</td>
+        <td>Joinville, SC</td>
+        <td>O Sebo</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>963</td>
+        <td>DEZ, 08</td>
+        <td>Curitiba, PR</td>
+        <td>Lado B</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>962</td>
+        <td>DEZ, 07</td>
+        <td>Rio do Sul, SC</td>
+        <td>Gaia Tattoo Bar</td>
+        <td>Apicultores Clandestinos</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>961</td>
+        <td>DEZ, 06</td>
+        <td>Florianópolis, SC</td>
+        <td>Haôma Baixo Centro</td>
+        <td>Joelhos Gelados, Farpa</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>960</td>
+        <td>DEZ, 05</td>
+        <td>Blumenal, SC</td>
+        <td>DogHouse</td>
+        <td>Laranja de Mercúrio</td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>959</td>
+        <td>DEZ, 04</td>
+        <td>Jaraguá do Sul</td>
+        <td>Bar do Nens</td>
+        <td>Damn Niuves, Hauser</br> Repulsores, Fwsky</td>
+        <td></td>
+    </tr>
+<tbody>
+
+</table>
+
+</section>
+
+<!--
+
+## ano
+
+<section class="table-wrapper">
+
+<table>
+
+<thead>
+    <tr>
+        <th>#</th>
+        <th>DATA</th>
+        <th>CIDADE</th>
+        <th>LOCAL</th>
+        <th>BANDAS</th>
+        <th>+ INFO</th>
+        </tr>
+</thead>
+
+<tbody>
+    <tr>
+        <td>1028</td>
+        <td>DIA</td>
+        <td>CIDADE</td>
+        <td>LOCAL</td>
+        <td>BANDAS</td>
+        <td>MAISINFO</td>
+    </tr>
+<tbody>
+
+</table>
+
+</section>
+
+-->
