@@ -2,10 +2,20 @@
 date = '2010-09-01T19:10:00-03:00'
 draft = false
 title = 'Release'
+showHero = 'article.heroStyle'
 featured = 'test-japão-rafael-yekashi.jpg'
 +++
 
-![Test visitando templo no Japão](featured.jpg "Foto por Rafael Yekashi")
+<div class="youtube-video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/V6vwTQ3so_0"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
 
 TEST é um duo brasileiro formado em 2010 por João Kombi (guitarra e voz) e Barata (bateria), dois veteranos da cena underground de São Paulo. Conhecida por sua intensa atividade ao vivo, colaborações marcantes com nomes como Iggor Cavalera e Deafkids, e uma abordagem musical destemida, a banda se consolidou como um dos nomes mais inventivos da cena alternativa nacional.
 

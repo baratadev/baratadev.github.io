@@ -2,13 +2,23 @@
 date = '2010-09-01T19:10:00-03:00'
 draft = false
 title = 'Release'
+showHero = 'article.heroStyle'
 featured = 'test-japão-rafael-yekashi.jpg'
 menu = 'main'
 +++
 
 <!--more-->
 
-![Test visitando templo no Japão](featured.jpg "Foto por Rafael Yekashi.")
+<div class="youtube-video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/V6vwTQ3so_0"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
 
 TEST is a Brazilian duo formed in 2010 by **João Kombi** (guitar and vocals) and **Barata** (drums), two veterans of São Paulo’s underground scene. Known for their intense live performances, notable collaborations with artists like Iggor Cavalera and Deafkids, and a fearless musical approach, the band has established itself as one of the most inventive names in the Brazilian alternative scene.
 

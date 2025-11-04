@@ -1,17 +1,9 @@
 ---
 description: "Test é um duo brasileiro formado por Barata (bateria) e João Kombi (guitarra e vocais)."
+featured: "2025-02-23-cecília-viva-cine-jóia-régis-bezerra-29.jpg"
 ---
 
-<div class="youtube-video-container">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/V6vwTQ3so_0"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  ></iframe>
-</div>
+![Test tocando no Festival Cecília Viva, no Cine Jóia. Foto: Régis Bezerra](2025-02-23-cecília-viva-cine-jóia-régis-bezerra-29.jpg)
 
 {{< typeit
   tag=h1

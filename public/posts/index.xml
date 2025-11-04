@@ -191,32 +191,16 @@ Test + Deafkids tocam as músicas novas do disco gravado em conjunto, &amp;ldquo
       <pubDate>Wed, 01 Sep 2010 19:10:00 -0300</pubDate>
       
       <guid>//localhost:1313/posts/release/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-&lt;figure&gt;
-      &lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;Test visitando templo no Japão&#34;
-    srcset=&#34;
-      /posts/release/featured_hu_6ea4040aa3d383d0.jpg  330w,
-      /posts/release/featured_hu_ef3d26e85f3c27fc.jpg  660w,
-      /posts/release/featured_hu_7094ebf0bedbf01e.jpg 1280w
-    &#34;
-    data-zoom-src=&#34;//localhost:1313/posts/release/featured.jpg&#34;
-    src=&#34;//localhost:1313/posts/release/featured.jpg&#34;&gt;
-
-  
-    &lt;figcaption&gt;Foto por Rafael Yekashi&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+      <description>&lt;div class=&#34;youtube-video-container&#34;&gt;
+  &lt;iframe
+    width=&#34;560&#34;
+    height=&#34;315&#34;
+    src=&#34;https://www.youtube.com/embed/V6vwTQ3so_0&#34;
+    frameborder=&#34;0&#34;
+    allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;
+    allowfullscreen
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;TEST é um duo brasileiro formado em 2010 por João Kombi (guitarra e voz) e Barata (bateria), dois veteranos da cena underground de São Paulo. Conhecida por sua intensa atividade ao vivo, colaborações marcantes com nomes como Iggor Cavalera e Deafkids, e uma abordagem musical destemida, a banda se consolidou como um dos nomes mais inventivos da cena alternativa nacional.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/release/featured.jpg" />
     </item>
