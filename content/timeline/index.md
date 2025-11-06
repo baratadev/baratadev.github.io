@@ -8,7 +8,7 @@ title = 'Linha do Tempo'
 
 {{< timeline >}}
 
-{{< timelineItem icon="dot" header="11 e 12 de setembro" badge="shows" subheader="Show de lançamento de 'Sem Esperanças' no Sesc Avenida Paulista" >}}
+{{< timelineItem icon="dot" header="11 e 12 de setembro" badge="shows" subheader="Show de lançamento de 'Sem Esperanças' no Sesc Avenida Paulista." >}}
 
 {{< gallery >}}
 <img src="https://res.cloudinary.com/dykvxlwxd/image/upload/q_auto/flyer-2025-09-11-12-sesc-avenida-paulista.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
