@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2025 Test</copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linha do Tempo</title>
+      <link>//localhost:1313/timeline/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/timeline/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Test &amp; Deafkids no Dragão do Mar, em Fortaleza</title>
