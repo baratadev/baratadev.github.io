@@ -24,8 +24,8 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultFeaturedImage = "test-by-chris-justtino.jpg" # used as default for featured images in all articles
+#defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -48,7 +48,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "test.png" # used in: hero, and card
+  homepageImage = "test-by-chris-justtino.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
